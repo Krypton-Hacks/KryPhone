@@ -1,5 +1,4 @@
 # KryPhone
-# Para todo Linux
 # Hacking
 # Creador: KevinVarsa
 
@@ -10,5 +9,7 @@
 [![Whats-App-Image-2023-07-14-at-8-57-43-PM-3.jpg](https://i.postimg.cc/9fTcXYtp/Whats-App-Image-2023-07-14-at-8-57-43-PM-3.jpg)](https://postimg.cc/Z9TGV3QB)
 # INSTALACION KALI LINUX AND TERMUX
 git clone https://github.com/Krypton-Hacks/KryPhone.git
+
 cd KryPhone
+
 ./kryphone.sh
